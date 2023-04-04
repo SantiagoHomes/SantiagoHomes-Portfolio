@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Santiago Homes | UCF Finance Student`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `I am a highly motivated and dedicated student currently pursuing my Bachelor's degree in Finance with a minor in Financial Technologies. Adept at leveraging my strong analytical and problem-solving skills, I have gained extensive experience in Python, R, SQL, Tableau, and APIs throughout my academic journey.With a passion for data analysis and a keen interest in the financial industry, I have successfully completed numerous projects that showcase my ability to transform complex data into actionable insights. My hands-on experience in various data analysis tools and programming languages, combined with my academic background, make me an aspiring Data Analyst ready to tackle real-world challenges and contribute to the success of any organization.`,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
